@@ -75,10 +75,6 @@ const slides = [
   import "swiper/css/pagination";
   import Swiper from "swiper";
   import { Pagination, Navigation } from "swiper/modules";
-  import { register } from "swiper/element/bundle";
-  register();
-
-  Swiper.use([Pagination, Navigation]);
 
   new Swiper("#ProjectSlider", {
     modules: [Pagination, Navigation],
