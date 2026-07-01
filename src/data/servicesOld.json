@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "search-engine-optimization",
+    "title": "Search Engine Optimization",
+    "shortTitle": "Search Engine\nOptimization",
+    "index": 1,
+    "image": "../../assets/pics/card-pic1.png",
+    "color": "white",
+    "description": "Boost your visibility on search engines with data-driven SEO strategies. We handle keyword research, on-page optimization, technical audits, and link building to drive organic traffic that converts.",
+    "features": ["Keyword Research", "On-Page SEO", "Technical Audits", "Link Building"],
+    "details": [
+      "Comprehensive site audit to identify technical issues and opportunities",
+      "Keyword strategy tailored to your industry and competition",
+      "On-page optimization including meta tags, headings, and internal linking",
+      "High-quality link building to boost domain authority",
+      "Monthly reporting with clear KPIs and action items"
+    ],
+    "heroText": "We help businesses rank higher on Google and attract qualified organic visitors through proven SEO strategies."
+  },
+  {
+    "slug": "pay-per-click-advertising",
+    "title": "Pay-Per-Click Advertising",
+    "shortTitle": "Pay-per-click\nadvertising",
+    "index": 2,
+    "image": "../../assets/pics/card-pic2.png",
+    "color": "green",
+    "description": "Maximize your ROI with targeted PPC campaigns across Google Ads, Meta, and LinkedIn. We manage bidding, ad copy, and audience targeting so every dollar works harder.",
+    "features": ["Google Ads", "Meta Ads", "LinkedIn Ads", "Retargeting"],
+    "details": [
+      "Campaign strategy aligned with your business goals and budget",
+      "Ad copywriting and creative design that drives clicks",
+      "Audience targeting and segmentation for maximum relevance",
+      "Ongoing bid management and performance optimization",
+      "Detailed ROI reporting and conversion tracking"
+    ],
+    "heroText": "Get in front of the right people at the right time with precision-targeted paid campaigns."
+  },
+  {
+    "slug": "social-media-marketing",
+    "title": "Social Media Marketing",
+    "shortTitle": "Social Media\nMarketing",
+    "index": 3,
+    "image": "../../assets/pics/card-pic3.png",
+    "color": "dark",
+    "description": "Build a loyal community and amplify your brand voice across social platforms. From content calendars to engagement strategies, we turn followers into customers.",
+    "features": ["Content Strategy", "Community Management", "Paid Social", "Analytics"],
+    "details": [
+      "Platform-specific strategy for Instagram, LinkedIn, TikTok, and more",
+      "Content calendar creation and scheduling",
+      "Community management and engagement",
+      "Paid social advertising with audience targeting",
+      "Performance analytics and monthly reporting"
+    ],
+    "heroText": "Grow your brand presence and engage your audience where they spend their time."
+  },
+  {
+    "slug": "email-marketing",
+    "title": "Email Marketing",
+    "shortTitle": "Email\nMarketing",
+    "index": 4,
+    "image": "../../assets/pics/card-pic4.png",
+    "color": "white",
+    "description": "Nurture leads and drive repeat business with personalized email campaigns. We design, write, and automate sequences that keep your audience engaged and coming back.",
+    "features": ["Campaign Design", "Automation", "A/B Testing", "Segmentation"],
+    "details": [
+      "Email strategy development aligned with your sales funnel",
+      "Beautiful, responsive email design and templates",
+      "Automation workflows for welcome series, nurture, and re-engagement",
+      "A/B testing to optimize subject lines, copy, and CTAs",
+      "List segmentation and deliverability optimization"
+    ],
+    "heroText": "Turn your email list into a powerful revenue channel with targeted, automated campaigns."
+  },
+  {
+    "slug": "content-creation",
+    "title": "Content Creation",
+    "shortTitle": "Content\nCreation",
+    "index": 5,
+    "image": "../../assets/pics/card-pic5.png",
+    "color": "green",
+    "description": "Compelling content that tells your story and ranks on search. Our team produces blog posts, landing pages, infographics, and video scripts tailored to your audience.",
+    "features": ["Blog Posts", "Landing Pages", "Infographics", "Video Scripts"],
+    "details": [
+      "Content strategy based on keyword research and audience intent",
+      "Long-form blog posts optimized for SEO and readability",
+      "Landing page copy designed for conversions",
+      "Visual content including infographics and social graphics",
+      "Video scripts for explainers, ads, and social content"
+    ],
+    "heroText": "Stand out with high-quality content that educates, engages, and converts your audience."
+  },
+  {
+    "slug": "analytics-and-tracking",
+    "title": "Analytics & Tracking",
+    "shortTitle": "Analytics and\nTracking",
+    "index": 6,
+    "image": "../../assets/pics/card-pic6.png",
+    "color": "dark",
+    "description": "Make decisions backed by data. We set up GA4, conversion tracking, and custom dashboards so you always know what is working and where to invest next.",
+    "features": ["GA4 Setup", "Conversion Tracking", "Custom Dashboards", "Reporting"],
+    "details": [
+      "GA4 implementation and configuration",
+      "Conversion tracking setup across all channels",
+      "Custom dashboards for real-time performance insights",
+      "Attribution modeling to understand the full customer journey",
+      "Monthly reports with actionable recommendations"
+    ],
+    "heroText": "Get the insights you need to make smarter marketing decisions with proper tracking and analytics."
+  }
+]

@@ -5,28 +5,23 @@ import Logo from "../logo.astro";
 const navLinks = [
   {
     name: "About us",
-    href: "#about",
+    href: "/#about",
   },
   {
     name: "Services",
-    href: "#services",
-  },
-  {
-    name: "Use cases",
-    href: "#cases",
+    href: "/#services",
   },
   {
     name: "Testimonials",
-    href: "#testimonials",
+    href: "/#testimonials",
   },
   {
     name: "Contact",
-    href: "#contact",
+    href: "/#contact",
   },
 ];
 
 import bars from "../../assets/bars.svg";
-import brand from "../../assets/brand.svg";
 ---
 
 <div
@@ -67,7 +62,7 @@ import brand from "../../assets/brand.svg";
 
       <!-- CTA -->
       <div class="flex xl:flex-row xl:items-center px-4 xl:gap-4 flex-col">
-        <a class="btn-secondary" href="/#contact">Request a quote</a>
+        <a class="btn-secondary" href="#contact">Request a quote</a>
       </div>
     </div>
 
