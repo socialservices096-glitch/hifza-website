@@ -4,7 +4,7 @@ import HeroIlust from "../../assets/pics/hero-pic.png";
 import Section from "./Section.astro";
 ---
 
-<Section id="home">
+<Section id="home" class="">
   <div
     class="grid grid-cols-1 grid-template md:grid-cols-2 md:grid-rows-1  mt-[8rem] md:mt-[12rem]"
   >
@@ -14,8 +14,8 @@ import Section from "./Section.astro";
     <picture class="row-span-1 md:row-span-3">
       <Image src={HeroIlust} alt="Hero Ilustration" loading="eager" />
     </picture>
-    <div class="w-full lg:w-[66.5%]">
-      <p class="my-[35px]">
+    <div class="flex flex-col w-full lg:w-[66.5%]">
+      <p class="mb-[1rem] md:mb-[2rem]">
         Our digital marketing agency helps businesses grow and succeed online
         through a range of services including SEO, PPC, social media marketing,
         and content creation.
