@@ -1,6 +1,6 @@
-# ✨ Kreatif Software
-**[Landing](https://kreatif-software.netlify.app/)**
-Kreatif is a high-performance Landing page made with Astro and Tailwind. It's based on the original Figma design by [Olga Skuja](https://www.olgaskuja.design/).
+# ✨ Hifza - Digital Marketing Expert
+**[Landing](https://hifza-website.netlify.app/)**
+Hifza is a high-performance Landing page made with Astro and Tailwind for a digital marketing expert.
 
 ## Features
 - Clean and simple design.
